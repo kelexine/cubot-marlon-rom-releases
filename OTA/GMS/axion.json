@@ -1,0 +1,19 @@
+{
+  "response": [
+    {
+      "datetime": 1794767069,
+      "filename": "axion-2.9-NOESIS-20261115-UNOFFICIAL-CORE-marlon.zip",
+      "id": "6c94cf3ac1489644ee9f9c9b9b1bb0e7",
+      "romtype": "UNOFFICIAL",
+      "size": 2002751787,
+      "url": "https://github.com/kelexine/android_device_cubot_marlon/releases/download/v2.9-20261115-erofs/axion-2.9-NOESIS-20261115-UNOFFICIAL-CORE-marlon.zip",
+      "version": "2.9",
+      "target_files": {
+        "filename": "marlon-target_files-20261115.zip",
+        "size": 4210282541,
+        "sha256": "0fcc75822ac311759d50e8ef5545b7c9b03d18cf31339460ed98333566685396",
+        "url": "https://sourceforge.net/projects/cubot-marlon-rom-releases/files/ota-baselines/marlon-target_files-20261115.zip/download"
+      }
+    }
+  ]
+}
