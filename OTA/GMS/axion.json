@@ -1,27 +1,27 @@
 {
   "response": [
     {
-      "datetime": 1794813619,
+      "datetime": 1794849452,
       "filename": "axion-2.9-NOESIS-20261116-UNOFFICIAL-GMS-marlon.zip",
-      "id": "bd1ddf43deb5b279959c6fb62d0aa2d0",
+      "id": "12790eccbd3723d5d36e49f3460b1235",
       "romtype": "UNOFFICIAL",
-      "size": 2254023632,
-      "url": "https://sourceforge.net/projects/cubot-marlon-rom-releases/files/releases/v2.9-20261116/axion-2.9-NOESIS-20261116-UNOFFICIAL-GMS-marlon.zip/download",
+      "size": 2255305471,
+      "url": "https://sourceforge.net/projects/cubot-marlon-rom-releases/files/releases/v2.9-20261116-r2/axion-2.9-NOESIS-20261116-UNOFFICIAL-GMS-marlon.zip/download",
       "version": "2.9",
       "incremental": {
         "base_date": "20261116",
         "target_date": "20261116",
         "filename": "axion-2.9-NOESIS-20261116-to-20261116-INCREMENTAL-UNOFFICIAL-GMS-marlon.zip",
-        "id": "09e506a678a0eda664de4330a4ade180",
-        "size": 48349014,
-        "sha256": "9c0b5aebca7e7b50e0b306d9a8c18e023fb201d40a46bf7fdcefd9ec75a3a30d",
-        "url": "https://github.com/kelexine/cubot-marlon-rom-releases/releases/download/v2.9-20261116/axion-2.9-NOESIS-20261116-to-20261116-INCREMENTAL-UNOFFICIAL-GMS-marlon.zip"
+        "id": "fb974932e4d696694ef3483e2b78e7fd",
+        "size": 22219806,
+        "sha256": "28aa4d03164579a89908bce677427483232427bb106f75b755e517b00cc2e81a",
+        "url": "https://github.com/kelexine/cubot-marlon-rom-releases/releases/download/v2.9-20261116-r2/axion-2.9-NOESIS-20261116-to-20261116-INCREMENTAL-UNOFFICIAL-GMS-marlon.zip"
       },
       "target_files": {
-        "filename": "marlon-target_files-20261116-1794813619.zip",
-        "size": 4726163765,
-        "sha256": "a3d7ab832e9ad90901e8c3316461e662953fb5dc07e04139feba2819ff30663c",
-        "url": "https://sourceforge.net/projects/cubot-marlon-rom-releases/files/ota-baselines/marlon-target_files-20261116-1794813619.zip/download"
+        "filename": "marlon-target_files-20261116-1794849452.zip",
+        "size": 4726976027,
+        "sha256": "80890581da4760d6ea2c7c6d59ac8ccb0c492aa7b3f70bb19d21f1d2e6d51126",
+        "url": "https://sourceforge.net/projects/cubot-marlon-rom-releases/files/ota-baselines/marlon-target_files-20261116-1794849452.zip/download"
       }
     }
   ]
