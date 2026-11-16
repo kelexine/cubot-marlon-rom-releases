@@ -1,18 +1,27 @@
 {
   "response": [
     {
-      "datetime": 1794767069,
-      "filename": "axion-2.9-NOESIS-20261115-UNOFFICIAL-CORE-marlon.zip",
-      "id": "6c94cf3ac1489644ee9f9c9b9b1bb0e7",
+      "datetime": 1794791513,
+      "filename": "axion-2.9-NOESIS-20261116-UNOFFICIAL-GMS-marlon.zip",
+      "id": "ed4f966d23e8596f4dcd1a41703b6529",
       "romtype": "UNOFFICIAL",
-      "size": 2002751787,
-      "url": "https://github.com/kelexine/android_device_cubot_marlon/releases/download/v2.9-20261115-erofs/axion-2.9-NOESIS-20261115-UNOFFICIAL-CORE-marlon.zip",
+      "size": 2254067871,
+      "url": "https://sourceforge.net/projects/cubot-marlon-rom-releases/files/releases/v2.9-20261116/axion-2.9-NOESIS-20261116-UNOFFICIAL-GMS-marlon.zip/download",
       "version": "2.9",
+      "incremental": {
+        "base_date": "20261115",
+        "target_date": "20261116",
+        "filename": "axion-2.9-NOESIS-20261115-to-20261116-INCREMENTAL-UNOFFICIAL-GMS-marlon.zip",
+        "id": "29e20fbad2a0dd2134f2945c545dd2f1",
+        "size": 667244759,
+        "sha256": "fb3f06efd5781ae874df3c53413876051a765f03585a69fc53c3c3a788c6efec",
+        "url": "https://github.com/kelexine/cubot-marlon-rom-releases/releases/download/v2.9-20261116/axion-2.9-NOESIS-20261115-to-20261116-INCREMENTAL-UNOFFICIAL-GMS-marlon.zip"
+      },
       "target_files": {
-        "filename": "marlon-target_files-20261115.zip",
-        "size": 4210282541,
-        "sha256": "0fcc75822ac311759d50e8ef5545b7c9b03d18cf31339460ed98333566685396",
-        "url": "https://sourceforge.net/projects/cubot-marlon-rom-releases/files/ota-baselines/marlon-target_files-20261115.zip/download"
+        "filename": "marlon-target_files-20261116.zip",
+        "size": 4726179329,
+        "sha256": "0a768c554c9ec2e92fbdeb1a0ae314f49fbb1eceb4dc7681ac32c0f9a5c32dc8",
+        "url": "https://sourceforge.net/projects/cubot-marlon-rom-releases/files/ota-baselines/marlon-target_files-20261116.zip/download"
       }
     }
   ]
