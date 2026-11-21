@@ -9,6 +9,17 @@
       "url": "https://sourceforge.net/projects/cubot-marlon-rom-releases/files/releases/v2.9-20261121/axion-2.9-NOESIS-20261121-UNOFFICIAL-GMS-marlon.zip/download",
       "version": "2.9",
       "incremental_version": "1795249313",
+      "incremental": {
+        "base_date": "20261120",
+        "target_date": "20261121",
+        "filename": "axion-2.9-NOESIS-20261120-to-20261121-1795249313-INCREMENTAL-UNOFFICIAL-GMS-marlon.zip",
+        "id": "01fdb63e5e69c2e4d51c90e33d791d42",
+        "size": 63763939,
+        "sha256": "880b6b33de1a0acadf54df8596a8b93da03530d30932eafee8587b140327d745",
+        "url": "https://github.com/kelexine/cubot-marlon-rom-releases/releases/download/v2.9-20261121/axion-2.9-NOESIS-20261120-to-20261121-1795249313-INCREMENTAL-UNOFFICIAL-GMS-marlon.zip",
+        "base_datetime": 1795166518,
+        "base_incremental": "1795166518"
+      },
       "target_files": {
         "filename": "marlon-target_files-20261121.zip",
         "size": 4729043600,
